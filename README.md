@@ -9,3 +9,7 @@ Bu proje, evcil hayvan görselleri üzerinden kedi/köpek sınıflandırması ya
 - Gelişmiş similarity metrikleri
 - Knowledge Distillation ile optimizasyon
 - Android mobil uygulama entegrasyonu
+
+## Çalıştırmak için
+1. `requirements.txt` ile ortamı kur
+2. `benzerlik.ipynb` notebook’u çalıştır
